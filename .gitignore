@@ -1,0 +1,14 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+HELP CLEANERS BIO.html
+HELP CLEANERS BIO_files/

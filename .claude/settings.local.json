@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp \"C:/Users/MY COMPUTER/Downloads/ChatGPT_Image_Jul_30__2026__03_30_17_PM-removebg-preview.png\" \"C:/Users/MY COMPUTER/Downloads/Help Cleaners/logo.png\")",
+      "Bash(cp \"C:/Users/MY COMPUTER/Downloads/ChatGPT Image Jul 30, 2026, 03_30_17 PM.png\" \"C:/Users/MY COMPUTER/Downloads/Help Cleaners/logo-with-bg.png\")",
+      "Bash(start *)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git remote *)",
+      "Bash(git branch *)",
+      "Bash(git push *)",
+      "Bash(gh auth *)",
+      "Bash(git config *)",
+      "Bash(git ls-remote *)",
+      "Bash(git pull *)",
+      "Bash(git stash *)",
+      "Bash(git rebase *)"
+    ]
+  }
+}
