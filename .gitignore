@@ -12,3 +12,4 @@ desktop.ini
 # Project specific
 HELP CLEANERS BIO.html
 HELP CLEANERS BIO_files/
+.claude/
