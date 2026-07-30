@@ -13,3 +13,6 @@ desktop.ini
 HELP CLEANERS BIO.html
 HELP CLEANERS BIO_files/
 .claude/
+node_modules/
+package.json
+package-lock.json
